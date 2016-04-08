@@ -1,0 +1,10 @@
+{
+  "name": "",
+  "version": "",
+  "description": "",
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "gh-pages": "^0.11.0"
+  }
+}
